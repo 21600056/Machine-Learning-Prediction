@@ -4,5 +4,6 @@ Predictive Modeling of Water Quality in Wastewater Treatment Plants: Development
 # Project Period
 2020.07 ~ 2020.12
 
+# Explaination
 Prediction of water purification quality in wastewater treatment plants of petroleum chemical factory.
 
